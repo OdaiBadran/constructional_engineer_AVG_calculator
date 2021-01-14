@@ -1,3 +1,5 @@
+/** note : this code was written when i was a "child" in programing , yet it is nice */
+
 #pragma once
 #include <iostream>
 #include <string.h>
@@ -250,7 +252,7 @@ namespace omar_calculator_ {
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(183, 87);
 			this->button1->TabIndex = 1;
-			this->button1->Text = L"çãå\"à 1";
+			this->button1->Text = L"Ã§Ã£Ã¥\"Ã  1";
 			this->button1->UseVisualStyleBackColor = false;
 			this->button1->Click += gcnew System::EventHandler(this, &Form1::hdv1);
 			// 
@@ -267,7 +269,7 @@ namespace omar_calculator_ {
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(183, 87);
 			this->button2->TabIndex = 1;
-			this->button2->Text = L"àìâáøä ìéðéàøéú";
+			this->button2->Text = L"Ã Ã¬Ã¢Ã¡Ã¸Ã¤ Ã¬Ã©Ã°Ã©Ã Ã¸Ã©Ãº";
 			this->button2->UseVisualStyleBackColor = false;
 			this->button2->Click += gcnew System::EventHandler(this, &Form1::algeb_Click);
 			// 
@@ -284,7 +286,7 @@ namespace omar_calculator_ {
 			this->button3->Name = L"button3";
 			this->button3->Size = System::Drawing::Size(183, 87);
 			this->button3->TabIndex = 1;
-			this->button3->Text = L"ôéæé÷ä 1";
+			this->button3->Text = L"Ã´Ã©Ã¦Ã©Ã·Ã¤ 1";
 			this->button3->UseVisualStyleBackColor = false;
 			this->button3->Click += gcnew System::EventHandler(this, &Form1::pys11_Click);
 			// 
@@ -315,7 +317,7 @@ namespace omar_calculator_ {
 			this->button4->Name = L"button4";
 			this->button4->Size = System::Drawing::Size(183, 87);
 			this->button4->TabIndex = 1;
-			this->button4->Text = L"îéãò âøôé";
+			this->button4->Text = L"Ã®Ã©Ã£Ã² Ã¢Ã¸Ã´Ã©";
 			this->button4->UseVisualStyleBackColor = false;
 			this->button4->Click += gcnew System::EventHandler(this, &Form1::meda_grafi_Click);
 			// 
@@ -332,7 +334,7 @@ namespace omar_calculator_ {
 			this->button6->Name = L"button6";
 			this->button6->Size = System::Drawing::Size(183, 87);
 			this->button6->TabIndex = 4;
-			this->button6->Text = L"ëéîéä ëììéú";
+			this->button6->Text = L"Ã«Ã©Ã®Ã©Ã¤ Ã«Ã¬Ã¬Ã©Ãº";
 			this->button6->UseVisualStyleBackColor = false;
 			this->button6->Click += gcnew System::EventHandler(this, &Form1::kimia_clalit_);
 			// 
@@ -349,7 +351,7 @@ namespace omar_calculator_ {
 			this->button7->Name = L"button7";
 			this->button7->Size = System::Drawing::Size(183, 87);
 			this->button7->TabIndex = 5;
-			this->button7->Text = L"îáåà ìîëðé÷ä äðãñéú";
+			this->button7->Text = L"Ã®Ã¡Ã¥Ã  Ã¬Ã®Ã«Ã°Ã©Ã·Ã¤ Ã¤Ã°Ã£Ã±Ã©Ãº";
 			this->button7->UseVisualStyleBackColor = false;
 			this->button7->Click += gcnew System::EventHandler(this, &Form1::mechanics_hndsi_Click);
 			// 
@@ -366,7 +368,7 @@ namespace omar_calculator_ {
 			this->button8->Name = L"button8";
 			this->button8->Size = System::Drawing::Size(183, 87);
 			this->button8->TabIndex = 2;
-			this->button8->Text = L"îã\"ø";
+			this->button8->Text = L"Ã®Ã£\"Ã¸";
 			this->button8->UseVisualStyleBackColor = false;
 			this->button8->Click += gcnew System::EventHandler(this, &Form1::madar_);
 			// 
@@ -383,7 +385,7 @@ namespace omar_calculator_ {
 			this->button9->Name = L"button9";
 			this->button9->Size = System::Drawing::Size(183, 87);
 			this->button9->TabIndex = 3;
-			this->button9->Text = L"çãå\"à 2";
+			this->button9->Text = L"Ã§Ã£Ã¥\"Ã  2";
 			this->button9->UseVisualStyleBackColor = false;
 			this->button9->Click += gcnew System::EventHandler(this, &Form1::hedv2);
 			// 
@@ -400,7 +402,7 @@ namespace omar_calculator_ {
 			this->button10->Name = L"button10";
 			this->button10->Size = System::Drawing::Size(183, 87);
 			this->button10->TabIndex = 8;
-			this->button10->Text = L"îòáãä áëéîéä";
+			this->button10->Text = L"Ã®Ã²Ã¡Ã£Ã¤ Ã¡Ã«Ã©Ã®Ã©Ã¤";
 			this->button10->UseVisualStyleBackColor = false;
 			this->button10->Click += gcnew System::EventHandler(this, &Form1::lab_kimiaa);
 			// 
@@ -417,7 +419,7 @@ namespace omar_calculator_ {
 			this->button11->Name = L"button11";
 			this->button11->Size = System::Drawing::Size(183, 87);
 			this->button11->TabIndex = 9;
-			this->button11->Text = L"îáåà ìäðãñú çåîøéí";
+			this->button11->Text = L"Ã®Ã¡Ã¥Ã  Ã¬Ã¤Ã°Ã£Ã±Ãº Ã§Ã¥Ã®Ã¸Ã©Ã­";
 			this->button11->UseVisualStyleBackColor = false;
 			this->button11->Click += gcnew System::EventHandler(this, &Form1::homarim_Click);
 			// 
@@ -434,7 +436,7 @@ namespace omar_calculator_ {
 			this->button12->Name = L"button12";
 			this->button12->Size = System::Drawing::Size(183, 87);
 			this->button12->TabIndex = 6;
-			this->button12->Text = L"ôééúåï";
+			this->button12->Text = L"Ã´Ã©Ã©ÃºÃ¥Ã¯";
 			this->button12->UseVisualStyleBackColor = false;
 			this->button12->Click += gcnew System::EventHandler(this, &Form1::python_Click);
 			// 
@@ -451,7 +453,7 @@ namespace omar_calculator_ {
 			this->button13->Name = L"button13";
 			this->button13->Size = System::Drawing::Size(183, 87);
 			this->button13->TabIndex = 7;
-			this->button13->Text = L"úåøú äçåæ÷ 1";
+			this->button13->Text = L"ÃºÃ¥Ã¸Ãº Ã¤Ã§Ã¥Ã¦Ã· 1";
 			this->button13->UseVisualStyleBackColor = false;
 			this->button13->Click += gcnew System::EventHandler(this, &Form1::hozk1_Click);
 			// 
@@ -468,7 +470,7 @@ namespace omar_calculator_ {
 			this->button14->Name = L"button14";
 			this->button14->Size = System::Drawing::Size(183, 87);
 			this->button14->TabIndex = 10;
-			this->button14->Text = L"ëìëìä äðãñéú";
+			this->button14->Text = L"Ã«Ã¬Ã«Ã¬Ã¤ Ã¤Ã°Ã£Ã±Ã©Ãº";
 			this->button14->UseVisualStyleBackColor = false;
 			this->button14->Click += gcnew System::EventHandler(this, &Form1::kalkal_hnds_Click);
 			// 
@@ -485,7 +487,7 @@ namespace omar_calculator_ {
 			this->button15->Name = L"button15";
 			this->button15->Size = System::Drawing::Size(183, 87);
 			this->button15->TabIndex = 15;
-			this->button15->Text = L"çåîøé áðééä";
+			this->button15->Text = L"Ã§Ã¥Ã®Ã¸Ã© Ã¡Ã°Ã©Ã©Ã¤";
 			this->button15->UseVisualStyleBackColor = false;
 			this->button15->Click += gcnew System::EventHandler(this, &Form1::homri_bnia);
 			// 
@@ -502,7 +504,7 @@ namespace omar_calculator_ {
 			this->button16->Name = L"button16";
 			this->button16->Size = System::Drawing::Size(183, 87);
 			this->button16->TabIndex = 13;
-			this->button16->Text = L"úåøú äçåæ÷ 2";
+			this->button16->Text = L"ÃºÃ¥Ã¸Ãº Ã¤Ã§Ã¥Ã¦Ã· 2";
 			this->button16->UseVisualStyleBackColor = false;
 			this->button16->Click += gcnew System::EventHandler(this, &Form1::hzk2);
 			// 
@@ -519,7 +521,7 @@ namespace omar_calculator_ {
 			this->button17->Name = L"button17";
 			this->button17->Size = System::Drawing::Size(183, 87);
 			this->button17->TabIndex = 14;
-			this->button17->Text = L"ôéæé÷ä 2";
+			this->button17->Text = L"Ã´Ã©Ã¦Ã©Ã·Ã¤ 2";
 			this->button17->UseVisualStyleBackColor = false;
 			this->button17->Click += gcnew System::EventHandler(this, &Form1::pys2);
 			// 
@@ -536,7 +538,7 @@ namespace omar_calculator_ {
 			this->button18->Name = L"button18";
 			this->button18->Size = System::Drawing::Size(183, 87);
 			this->button18->TabIndex = 11;
-			this->button18->Text = L"éñåãåú îëðé÷ú æåøîéí";
+			this->button18->Text = L"Ã©Ã±Ã¥Ã£Ã¥Ãº Ã®Ã«Ã°Ã©Ã·Ãº Ã¦Ã¥Ã¸Ã®Ã©Ã­";
 			this->button18->UseVisualStyleBackColor = false;
 			this->button18->Click += gcnew System::EventHandler(this, &Form1::zoormim);
 			// 
@@ -553,7 +555,7 @@ namespace omar_calculator_ {
 			this->button19->Name = L"button19";
 			this->button19->Size = System::Drawing::Size(183, 87);
 			this->button19->TabIndex = 12;
-			this->button19->Text = L"ñèèéñèé÷ä îáðéí";
+			this->button19->Text = L"Ã±Ã¨Ã¨Ã©Ã±Ã¨Ã©Ã·Ã¤ Ã®Ã¡Ã°Ã©Ã­";
 			this->button19->UseVisualStyleBackColor = false;
 			this->button19->Click += gcnew System::EventHandler(this, &Form1::statisticat_mvnim);
 			// 
@@ -570,7 +572,7 @@ namespace omar_calculator_ {
 			this->button20->Name = L"button20";
 			this->button20->Size = System::Drawing::Size(183, 87);
 			this->button20->TabIndex = 20;
-			this->button20->Text = L"âéàåìåâéä äðãñéú";
+			this->button20->Text = L"Ã¢Ã©Ã Ã¥Ã¬Ã¥Ã¢Ã©Ã¤ Ã¤Ã°Ã£Ã±Ã©Ãº";
 			this->button20->UseVisualStyleBackColor = false;
 			this->button20->Click += gcnew System::EventHandler(this, &Form1::giology_hnds);
 			// 
@@ -587,7 +589,7 @@ namespace omar_calculator_ {
 			this->button21->Name = L"button21";
 			this->button21->Size = System::Drawing::Size(183, 87);
 			this->button21->TabIndex = 18;
-			this->button21->Text = L"îáåà ìäéãøåìé÷ä";
+			this->button21->Text = L"Ã®Ã¡Ã¥Ã  Ã¬Ã¤Ã©Ã£Ã¸Ã¥Ã¬Ã©Ã·Ã¤";
 			this->button21->UseVisualStyleBackColor = false;
 			this->button21->Click += gcnew System::EventHandler(this, &Form1::hedroliqa);
 			// 
@@ -604,7 +606,7 @@ namespace omar_calculator_ {
 			this->button22->Name = L"button22";
 			this->button22->Size = System::Drawing::Size(183, 87);
 			this->button22->TabIndex = 19;
-			this->button22->Text = L"îáåà ìùéèåú ðåîøéåú";
+			this->button22->Text = L"Ã®Ã¡Ã¥Ã  Ã¬Ã¹Ã©Ã¨Ã¥Ãº Ã°Ã¥Ã®Ã¸Ã©Ã¥Ãº";
 			this->button22->UseVisualStyleBackColor = false;
 			this->button22->Click += gcnew System::EventHandler(this, &Form1::nomriot);
 			// 
@@ -621,7 +623,7 @@ namespace omar_calculator_ {
 			this->button23->Name = L"button23";
 			this->button23->Size = System::Drawing::Size(183, 87);
 			this->button23->TabIndex = 16;
-			this->button23->Text = L"îáðé áèåï 1";
+			this->button23->Text = L"Ã®Ã¡Ã°Ã© Ã¡Ã¨Ã¥Ã¯ 1";
 			this->button23->UseVisualStyleBackColor = false;
 			this->button23->Click += gcnew System::EventHandler(this, &Form1::bton1);
 			// 
@@ -638,7 +640,7 @@ namespace omar_calculator_ {
 			this->button24->Name = L"button24";
 			this->button24->Size = System::Drawing::Size(183, 87);
 			this->button24->TabIndex = 17;
-			this->button24->Text = L"ñèèéñèé÷ä";
+			this->button24->Text = L"Ã±Ã¨Ã¨Ã©Ã±Ã¨Ã©Ã·Ã¤";
 			this->button24->UseVisualStyleBackColor = false;
 			this->button24->Click += gcnew System::EventHandler(this, &Form1::statistica_Click);
 			// 
@@ -655,7 +657,7 @@ namespace omar_calculator_ {
 			this->button25->Name = L"button25";
 			this->button25->Size = System::Drawing::Size(183, 87);
 			this->button25->TabIndex = 25;
-			this->button25->Text = L"ðéúåç îòøëåú";
+			this->button25->Text = L"Ã°Ã©ÃºÃ¥Ã§ Ã®Ã²Ã¸Ã«Ã¥Ãº";
 			this->button25->UseVisualStyleBackColor = false;
 			this->button25->Click += gcnew System::EventHandler(this, &Form1::netoh_marekhot);
 			// 
@@ -672,7 +674,7 @@ namespace omar_calculator_ {
 			this->button26->Name = L"button26";
 			this->button26->Size = System::Drawing::Size(183, 87);
 			this->button26->TabIndex = 23;
-			this->button26->Text = L"îáåà ìäðãñú úçáåøä";
+			this->button26->Text = L"Ã®Ã¡Ã¥Ã  Ã¬Ã¤Ã°Ã£Ã±Ãº ÃºÃ§Ã¡Ã¥Ã¸Ã¤";
 			this->button26->UseVisualStyleBackColor = false;
 			this->button26->Click += gcnew System::EventHandler(this, &Form1::mvo_tahbora);
 			// 
@@ -689,7 +691,7 @@ namespace omar_calculator_ {
 			this->button27->Name = L"button27";
 			this->button27->Size = System::Drawing::Size(183, 87);
 			this->button27->TabIndex = 24;
-			this->button27->Text = L"âéàåîëðé÷ä";
+			this->button27->Text = L"Ã¢Ã©Ã Ã¥Ã®Ã«Ã°Ã©Ã·Ã¤";
 			this->button27->UseVisualStyleBackColor = false;
 			this->button27->Click += gcnew System::EventHandler(this, &Form1::gio_mechanics);
 			// 
@@ -706,7 +708,7 @@ namespace omar_calculator_ {
 			this->button28->Name = L"button28";
 			this->button28->Size = System::Drawing::Size(183, 87);
 			this->button28->TabIndex = 21;
-			this->button28->Text = L"îáðé áèåï 2";
+			this->button28->Text = L"Ã®Ã¡Ã°Ã© Ã¡Ã¨Ã¥Ã¯ 2";
 			this->button28->UseVisualStyleBackColor = false;
 			this->button28->Click += gcnew System::EventHandler(this, &Form1::bton2);
 			// 
@@ -723,7 +725,7 @@ namespace omar_calculator_ {
 			this->button29->Name = L"button29";
 			this->button29->Size = System::Drawing::Size(183, 87);
 			this->button29->TabIndex = 22;
-			this->button29->Text = L"éñåãåú äîéôåé åäîãéãä 1";
+			this->button29->Text = L"Ã©Ã±Ã¥Ã£Ã¥Ãº Ã¤Ã®Ã©Ã´Ã¥Ã© Ã¥Ã¤Ã®Ã£Ã©Ã£Ã¤ 1";
 			this->button29->UseVisualStyleBackColor = false;
 			this->button29->Click += gcnew System::EventHandler(this, &Form1::yisodot_mepoiClick);
 			// 
@@ -757,7 +759,7 @@ namespace omar_calculator_ {
 			this->button32->Name = L"button32";
 			this->button32->Size = System::Drawing::Size(183, 87);
 			this->button32->TabIndex = 29;
-			this->button32->Text = L"ùéèåú îçùá áñèèéñèé÷ä";
+			this->button32->Text = L"Ã¹Ã©Ã¨Ã¥Ãº Ã®Ã§Ã¹Ã¡ Ã¡Ã±Ã¨Ã¨Ã©Ã±Ã¨Ã©Ã·Ã¤";
 			this->button32->UseVisualStyleBackColor = false;
 			this->button32->Click += gcnew System::EventHandler(this, &Form1::shetot_mhshv);
 			// 
@@ -774,7 +776,7 @@ namespace omar_calculator_ {
 			this->button33->Name = L"button33";
 			this->button33->Size = System::Drawing::Size(183, 87);
 			this->button33->TabIndex = 26;
-			this->button33->Text = L"îáåà ìðéäåì åáèéçåú áðééä";
+			this->button33->Text = L"Ã®Ã¡Ã¥Ã  Ã¬Ã°Ã©Ã¤Ã¥Ã¬ Ã¥Ã¡Ã¨Ã©Ã§Ã¥Ãº Ã¡Ã°Ã©Ã©Ã¤";
 			this->button33->UseVisualStyleBackColor = false;
 			this->button33->Click += gcnew System::EventHandler(this, &Form1::nihol_btihot);
 			// 
@@ -791,7 +793,7 @@ namespace omar_calculator_ {
 			this->button34->Name = L"button34";
 			this->button34->Size = System::Drawing::Size(183, 87);
 			this->button34->TabIndex = 27;
-			this->button34->Text = L"îòáãä äðãñéú";
+			this->button34->Text = L"Ã®Ã²Ã¡Ã£Ã¤ Ã¤Ã°Ã£Ã±Ã©Ãº";
 			this->button34->UseVisualStyleBackColor = false;
 			this->button34->Click += gcnew System::EventHandler(this, &Form1::hnds_lab);
 			// 
@@ -995,7 +997,7 @@ namespace omar_calculator_ {
 			this->button45->Name = L"button45";
 			this->button45->Size = System::Drawing::Size(183, 87);
 			this->button45->TabIndex = 43;
-			this->button45->Text = L"úëðåï úçáåøä";
+			this->button45->Text = L"ÃºÃ«Ã°Ã¥Ã¯ ÃºÃ§Ã¡Ã¥Ã¸Ã¤";
 			this->button45->UseVisualStyleBackColor = false;
 			this->button45->Click += gcnew System::EventHandler(this, &Form1::tkhn_tahbora);
 			// 
@@ -1012,7 +1014,7 @@ namespace omar_calculator_ {
 			this->button46->Name = L"button46";
 			this->button46->Size = System::Drawing::Size(183, 87);
 			this->button46->TabIndex = 45;
-			this->button46->Text = L"úëï åúôòåì ãøëéí";
+			this->button46->Text = L"ÃºÃ«Ã¯ Ã¥ÃºÃ´Ã²Ã¥Ã¬ Ã£Ã¸Ã«Ã©Ã­";
 			this->button46->UseVisualStyleBackColor = false;
 			this->button46->Click += gcnew System::EventHandler(this, &Form1::tkhn_tfaool_drkhem);
 			// 
@@ -1029,7 +1031,7 @@ namespace omar_calculator_ {
 			this->button47->Name = L"button47";
 			this->button47->Size = System::Drawing::Size(183, 87);
 			this->button47->TabIndex = 46;
-			this->button47->Text = L"äðãñú úðåòä";
+			this->button47->Text = L"Ã¤Ã°Ã£Ã±Ãº ÃºÃ°Ã¥Ã²Ã¤";
 			this->button47->UseVisualStyleBackColor = false;
 			this->button47->Click += gcnew System::EventHandler(this, &Form1::hndst_tnoaa);
 			// 
